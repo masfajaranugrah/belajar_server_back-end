@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "name": "restfull",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "@hapi/hapi": "^21.0.0"
+  }
+}
